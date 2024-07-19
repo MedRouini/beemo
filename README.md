@@ -1,4 +1,4 @@
-### Folder Descriptions
+## Folder Descriptions
 
 - **.idea/**: This directory contains configuration files for the IDE (Integrated Development Environment), such as project settings and workspace configurations. It is specific to the development environment and not required for deployment.
 
@@ -66,12 +66,3 @@ To run the application, execute the following command:
 
 ```bash
 python app.py
-TheChamps/
-│
-├── .idea/ # IDE configuration files
-├── static/ # Static files (CSS, JS, images)
-├── templates/ # HTML templates
-├── .gitignore # Git ignore file
-├── README.md # Project documentation
-├── app.py # Main application file
-└── requirements.txt # List of dependencies
