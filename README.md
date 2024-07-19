@@ -8,8 +8,6 @@
 
 - **.gitignore**: This file specifies the files and directories that should be ignored by Git. It helps prevent certain files from being tracked by version control.
 
-- **README.md**: This file contains information about the project, including an overview, installation instructions, and more.
-
 - **app.py**: This is the main application file where the Flask web application is created and run. It contains the core logic and routes for the application.
 
 - **requirements.txt**: This file lists the Python dependencies required for the project. It allows for easy installation of necessary packages using `pip`.
